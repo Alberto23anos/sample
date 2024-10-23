@@ -92,6 +92,16 @@
       <yloc>208</yloc>
       <attributes_hac/>
     </action>
+    <action>
+      <name>Dummy</name>
+      <description/>
+      <type>DUMMY</type>
+      <attributes/>
+      <parallel>N</parallel>
+      <xloc>480</xloc>
+      <yloc>400</yloc>
+      <attributes_hac/>
+    </action>
   </actions>
   <hops>
     <hop>
@@ -111,6 +121,20 @@
     <hop>
       <from>colaboradores</from>
       <to>Success</to>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>Y</unconditional>
+    </hop>
+    <hop>
+      <from>clientes</from>
+      <to>Dummy</to>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>Y</unconditional>
+    </hop>
+    <hop>
+      <from>colaboradores</from>
+      <to>Dummy</to>
       <enabled>Y</enabled>
       <evaluation>N</evaluation>
       <unconditional>Y</unconditional>
