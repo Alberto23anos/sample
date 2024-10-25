@@ -99,11 +99,7 @@
       <attributes/>
       <parallel>N</parallel>
       <xloc>480</xloc>
-<<<<<<< HEAD
-      <yloc>320</yloc>
-=======
       <yloc>400</yloc>
->>>>>>> cea109b426461afa24dcf9a63731874018ef444d
       <attributes_hac/>
     </action>
   </actions>
