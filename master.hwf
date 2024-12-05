@@ -131,14 +131,17 @@
       <fontitalic>N</fontitalic>
       <fontname>Segoe UI</fontname>
       <fontsize>9</fontsize>
-      <height>73</height>
-      <xloc>336</xloc>
-      <yloc>144</yloc>
-      <note>*******************************************************************************
-Note feita pela máquina física
- AP				
+      <height>121</height>
+      <xloc>320</xloc>
+      <yloc>112</yloc>
+      <note>********************************************************************************
+*Note feita pela máquina física
+*AP				
+********************************************************************************
+*Nota feita pelo servidor
+*Alberto Pedro
 *******************************************************************************</note>
-      <width>406</width>
+      <width>411</width>
     </notepad>
   </notepads>
   <attributes/>
