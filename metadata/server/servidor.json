@@ -6,7 +6,7 @@
   "nonProxyHosts": "",
   "overrideExistingProperties": false,
   "password": "Encrypted 2be98afc86aa7f2e4cb1aa265cd86aac8",
-  "port": "8080",
+  "port": "8081",
   "name": "servidor",
   "proxyHostname": "",
   "username": "cluster"
